@@ -7,10 +7,6 @@
 
 A web-based application for predicting **Reference Evapotranspiration (ETo)** using a deep Artificial Neural Network with advanced missing value imputation.
 
-## 📸 Screenshots
-
-*Add screenshots of your app here*
-
 ## ✨ Features
 
 - 🧠 **Deep Learning Model**: 5-layer ANN (256→128→64→32 neurons)
@@ -111,7 +107,7 @@ eto-predictor/
 
 ## 🌐 Live Demo
 
-**Deployed on Streamlit Cloud**: [Your App URL Here]
+**Deployed on Streamlit Cloud**: [https://eto-predictor.streamlit.app/]
 
 ## 💻 Usage
 
@@ -223,5 +219,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 <div align="center">
 Made with ❤️ for Agriculture and Water Management
 
-**[🌐 Live Demo](YOUR_APP_URL)** | **[📖 Documentation](YOUR_DOCS_URL)** | **[🐛 Report Bug](YOUR_ISSUES_URL)**
+**[🌐 Live Demo](https://eto-predictor.streamlit.app/)**
 </div>
