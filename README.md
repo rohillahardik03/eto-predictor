@@ -218,36 +218,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Data source: Ludhiana Agricultural Research Station, Punjab
-- Based on FAO Penman-Monteith equation principles
-- Inspired by the need for accessible agricultural tools
-
-## 📧 Contact
-
-**Developer**: [Your Name]  
-**Email**: [your.email@example.com]  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/eto-predictor&type=Date)](https://star-history.com/#YOUR_USERNAME/eto-predictor&Date)
-
-## 📊 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/eto-predictor)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/eto-predictor?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/eto-predictor?style=social)
-
----
 
 <div align="center">
 Made with ❤️ for Agriculture and Water Management
